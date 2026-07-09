@@ -6,4 +6,4 @@ This repository tracks my frontend development learning journey.
 ### 1. HTML CV Project
 A fully structured semantic HTML CV project.
 
-- **Live Demo (Project URL):** https://tasneemghonemy-png.github.io/responsive-web-design-journey/CV/
+- [project URL](https://tasneemghonemy-png.github.io/responsive-web-design-journey/CV/)
